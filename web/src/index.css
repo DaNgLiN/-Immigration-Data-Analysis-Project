@@ -1,0 +1,69 @@
+body {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.titleid {
+  color: #333333;
+  font-family: "Lato", sans-serif;
+  font-size: 54px;
+  margin: 38px 0px 7.6px 0px;
+  padding: 0px 0px 7.6px 0px;
+}
+
+.main-card {
+  background-color: #f8f9fa;
+}
+
+.metric-card {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  text-align: center;
+}
+
+.bg-purple {
+  background-color: #6f42c1;
+}
+
+.bg-blue {
+  background-color: #007bff;
+}
+
+.bg-orange {
+  background-color: #fd7e14;
+}
+
+.bg-red {
+  background-color: #dc3545;
+}
+
+.bg-teal {
+  background-color: #20c997;
+}
+
+.bg-green {
+  background-color: #28a745;
+}
+
+.bg-yellow {
+  background-color: #ffc107;
+}
+
+.bg-pink {
+  background-color: #e83e8c;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.metric-card div:first-child {
+  font-size: 1.2rem;
+}
+
+.metric-card div:last-child {
+  font-size: 1.5rem;
+  margin-top: 10px;
+}

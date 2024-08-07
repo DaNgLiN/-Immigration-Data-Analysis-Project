@@ -1,0 +1,6 @@
+fastapi
+matplotlib
+pandas
+seaborn
+scikit-learn
+uvicorn
